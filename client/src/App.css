@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.header {
+ padding:16px 16px;
+}
+
+video {
+  margin: auto 8px;
+}
+
+body {
+  background-color: #ced4da
+}
+
+.paddingTop-1{
+  padding-top: 8px;
+}
+
+.paddingTop-2{
+  padding-top: 16px;
+}
+
+.paddingBottom-1{
+  padding-bottom: 8px
+}
+.paddingLeft-1{
+  margin-left:8px;
+}
+.marginLeft-2{
+  margin-left:16px;
+}
+
+.merge-container{
+  padding:2px
+}
+
+.support{
+  bottom:0%;
+  right:0%;
+  position:fixed;
+}
+
+.screen_background{
+  display: block;
+  width: 100%;
+  padding: .375rem 1.75rem;
+  font-size: 1rem;
+  /* line-height: 1.5; */
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+
+.input-range__label-container{
+  display:none
+}
+
+.pointer{
+  cursor: pointer
+}
+
+.display-none{
+  display:none;
+}
+
+.display-block{
+  display:block;
+}
+
+.paddingRight-1{
+  margin-right:8px;
+}
+

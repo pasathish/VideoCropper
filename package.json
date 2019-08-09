@@ -1,0 +1,21 @@
+{
+  "name": "comparefiletool",
+  "version": "1.0.0",
+  "description": "File ComparetionTool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SathishKumar P",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.0.0",
+    "express-session": "^1.16.2",
+    "ffmpeg": "0.0.4",
+    "node-gitlab": "^1.6.1",
+    "nodemon": "^1.19.1",
+    "uuid": "^3.3.2"
+  }
+}
