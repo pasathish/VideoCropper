@@ -24,6 +24,6 @@ How to use this video cropper Application:
 
 4.Use the "Cropping bar" to specify the portion that you have to crop.
 
-5.Now click "Crop and download" button. Cropped file will get downloaded.
+5.Now click "Crop and download" button. Cropped file will get downloaded (Based on the file size it will take some time to download).
 
 ==========================================**********************=================================
