@@ -1,3 +1,3 @@
 cd server
 
-nodemon server.js
+node server.js
